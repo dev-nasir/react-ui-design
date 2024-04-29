@@ -1,0 +1,12 @@
+.btn{
+    background-color: #25D366;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 12px;
+    width: 100%;
+    text-align: center;
+    color: black;
+    letter-spacing: 5px;
+    padding: 4px 15px;
+}
+
